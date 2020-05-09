@@ -15,7 +15,14 @@ b)PLC programming software : WPLSoft V2.49
 Software Download Center
 http://www.deltaww.com/services/DownloadCenter3.aspx?secID=8&pid=2&tid=0&itemID=&typeID=1&downloadID=&title=&dataType=&check=0&hl=en-US&CID=06
 
-SCADA/HMI (Supervisory Control & Data Acquisition/ Human Machine interface) DELTAHMI DOP B series,
-Software Tools:  DOP Soft, Astra HMI/SCADA Software  
-VFD - Variable Frequency Drive  Kinco CV20 series Drive  
-Stepper Drive  Ark Motion, US digital.  Proximity sensors, Directional Control Valves, Grippers and Cylinders (FESTO, JANATICS, AKARI) 
+SCADA/HMI (Supervisory Control & Data Acquisition/ Human Machine interface) 
+
+DELTA HMI DOP B series
+
+Software Tools:  DOP Soft, Astra HMI/SCADA Software
+
+VFD - Variable Frequency Drive : Kinco CV20 series Drive.
+
+Stepper Drive : Ark Motion, US digital.
+
+Proximity sensors, Directional Control Valves, Grippers and Cylinders (FESTO, JANATICS, AKARI)

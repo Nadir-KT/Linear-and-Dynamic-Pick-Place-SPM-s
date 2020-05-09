@@ -8,7 +8,7 @@ Products Used:-
 
 http://www.deltaww.com/Products/CategoryListT1.aspx?CID=060301&PID=253&hl=en-US&Name=DVP-SS2+Series
 
-2) SCADA/HMI (Supervisory Control & Data Acquisition/ Human Machine interface) - Touch Panel HMI (Human Machine Interfaces) - 	DOP- B03S211
+2) SCADA/HMI (Supervisory Control & Data Acquisition/ Human Machine interface) - Astra HMI/SCADA Software, Touch Panel HMI (Human Machine Interfaces) - DOP- B03S211
 
 http://www.deltaww.com/products/CategoryListT1.aspx?CID=060302&PID=330&hl=en-us&Name=DOP-+B03S211
 

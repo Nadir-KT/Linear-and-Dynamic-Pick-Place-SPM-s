@@ -3,6 +3,7 @@
 Linear and Dynamic Pick and Place Special Purpose Machines for part transfer station. 
 
 Products Used:-
+
 1)PLC - Programmable Logic Controller Delta SS2 
 
 a)Delta DVP-SS2+Series PLC (Programmable logic controller)

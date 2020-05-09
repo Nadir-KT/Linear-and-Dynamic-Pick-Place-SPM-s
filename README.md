@@ -11,11 +11,11 @@ http://www.deltaww.com/Products/CategoryListT1.aspx?CID=060301&PID=253&hl=en-US&
 
 2) SCADA/HMI (Supervisory Control & Data Acquisition/ Human Machine interface) 
 
-a) Touch Panel HMI (Human Machine Interfaces) - 	DOP- B03S211
+2a) Touch Panel HMI (Human Machine Interfaces) - 	DOP- B03S211
 
 http://www.deltaww.com/products/CategoryListT1.aspx?CID=060302&PID=330&hl=en-us&Name=DOP-+B03S211
 
-b) Software Tools:  Astra HMI/SCADA Software
+2b) Software Tools:  Astra HMI/SCADA Software
 
 3) VFD - Variable Frequency Drive : Kinco CV20 series Drive.
 

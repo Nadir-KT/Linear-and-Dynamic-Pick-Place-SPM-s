@@ -6,12 +6,12 @@ Products Used:-
 
 1) Delta DVP-SS2+Series PLC (Programmable logic controller)
 
-http://www.deltaww.com/Products/CategoryListT1.aspx?CID=060301&PID=253&hl=en-US&Name=DVP-SS2+Series
+https://www.deltaww.com/en-US/products/PLC-Programmable-Logic-Controllers/253/
 
 2) SCADA/HMI (Supervisory Control & Data Acquisition/ Human Machine interface) - 
 Touch Panel HMI (Human Machine Interfaces) - DOP- B03S211
 
-http://www.deltaww.com/products/CategoryListT1.aspx?CID=060302&PID=330&hl=en-us&Name=DOP-+B03S211
+https://www.deltaww.com/en-us/products/Touch-Panel-HMI-Human-Machine-Interfaces/330/
 
 3) VFD - Variable Frequency Drive : Kinco CV20 series Drive.
 
@@ -28,4 +28,4 @@ Softwares Required :-
 3) HMI design software : DOPSoft V2.00.07
 
 Software Download Center
-http://www.deltaww.com/services/DownloadCenter3.aspx?secID=8&pid=2&tid=0&itemID=&typeID=1&downloadID=&title=&dataType=&check=0&hl=en-US&CID=06
+https://downloadcenter.deltaww.com/en-US/DownloadCenter

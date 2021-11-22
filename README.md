@@ -1,4 +1,4 @@
-# Linear-and-Dynamic-Pick & Place-SPMs
+# Linear and Dynamic Pick & Place SPMs
 
 Linear and Dynamic Pick and Place Special Purpose Machines for part transfer station. 
 
